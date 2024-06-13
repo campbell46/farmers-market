@@ -1,2 +1,5 @@
 /vendor
 /web/themes/contrib
+sites/*/settings*.php
+sites/*/files
+config
