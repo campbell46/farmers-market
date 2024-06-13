@@ -1,5 +1,5 @@
 /vendor
 /web/themes/contrib
-sites/*/settings*.php
-sites/*/files
+/web/sites/*/settings.php
+/web/sites/*/files
 config
